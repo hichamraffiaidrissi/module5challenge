@@ -1,0 +1,4 @@
+created a varriable named currentDateDisplay 
+ target an html element named currentDateDisplay
+then went to day.js.org to get the format
+and console.log it 
